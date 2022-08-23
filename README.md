@@ -1,25 +1,25 @@
 A completely Responsive Instagram App- Works on Android & Web!
 
 Features :
-> Responsive Instagram UI
+-> Responsive Instagram UI
  
-> Email & Password Authentication
+-> Email & Password Authentication
  
-> Share Posts with Caption
+-> Share Posts with Caption
  
-> Display Posts with Caption
+-> Display Posts with Caption
  
-> Like & Comment on Posts
+-> Like & Comment on Posts
  
-> Search Users
+-> Search Users
  
-> Follow Users
+-> Follow Users
 
-> Display User Posts, Followers & Following
+-> Display User Posts, Followers & Following
 
-> EVERYTHING REAL TIME
+-> EVERYTHING REAL TIME
 
-> Sign Out
+-> Sign Out
 
 Tech Used : 
 
