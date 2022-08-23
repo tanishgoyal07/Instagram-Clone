@@ -1,7 +1,4 @@
-
-
-import 'package:flutter/cupertino.dart';
-import 'package:flutter/material.dart';
+import 'package:flutter/widgets.dart';
 import 'package:instagram_flutter/models/user.dart';
 import 'package:instagram_flutter/resources/auth_methods.dart';
 
