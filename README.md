@@ -1,6 +1,7 @@
 A completely Responsive Instagram App- Works on Android & Web!
 
 Features :
+
 -> Responsive Instagram UI
  
 -> Email & Password Authentication
