@@ -1,7 +1,7 @@
 A completely Responsive Instagram App- Works on Android & Web!
 
 
-Features :
+**Features :**
 
 -> Responsive Instagram UI
  
@@ -24,13 +24,13 @@ Features :
 -> Sign Out
 
 
-Tech Used : 
+**Tech Used : **
 
 Server: Firebase Auth, Firebase Storage, Firebase Firestore
 
 Client: Flutter, Provider
 
 
-Screenshots: 
+**Screenshots: **
 
 
