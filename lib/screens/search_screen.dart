@@ -63,8 +63,7 @@ class _SearchScreenState extends State<SearchScreen> {
                           child: ListTile(
                             leading: CircleAvatar(
                               backgroundImage: NetworkImage(
-                                (snapshot.data! as dynamic).docs[index]
-                                    ['photoUrl'],
+                                (snapshot.data! as dynamic).docs[index]['photoUrl'],
                               ),
                               radius: 16,
                             ),
