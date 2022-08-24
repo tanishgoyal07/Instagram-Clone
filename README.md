@@ -1,6 +1,6 @@
 # Instagram Clone
 
-A completely Responsive Instagram App- Works on Android, iOS & Web! 
+A completely Responsive Instagram App- Works on Android & Web! 
 
 ## Features
 - Responsive Instagram UI
