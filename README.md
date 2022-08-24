@@ -20,3 +20,5 @@ A completely Responsive Instagram App- Works on Android, iOS & Web!
 **Client**: Flutter, Provider
     
 ## Screenshots
+
+![insta_1](https://user-images.githubusercontent.com/94990169/186444111-b82bb59b-0f87-43bd-bd67-8e79d095ac9b.jpeg)
